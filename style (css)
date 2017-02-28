@@ -1,0 +1,9 @@
+   #body {
+        background-color: mediumpurple;
+    }
+#my {
+    text-align: center;
+}
+#main {
+    background-color: mediumorchid;
+}
