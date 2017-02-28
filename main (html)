@@ -1,0 +1,23 @@
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+<title>Шпінталь Юлія</title> 
+
+<link rel="stylesheet" type="text/css" href="style.css">
+  </head> 
+<body ID="body"; class="hr"> 
+<p ID="my"; class="hr">Привіт! Я Шпінталь Юлія.</p>
+     <hr>
+   <ul ID="main"; class="hr">
+     <li> Народилася в Полтаві.</li>
+     <li>Навчаюся в ТНЕУ на факультуте комп'ютерних інформаційних технологій.</li>
+     <li>Cпеціальність - програмне забезпечення систем.</li>
+     <li>Другий курс.</li>
+     <li><a href=https://vk.com/juliaa_sha>Моя сторінка у VK</a></li>
+       <li><a href="mailto:shpintal06@gmail.com">Моя пошта</a></li>
+   </ul>
+   <hr>
+
+</body> 
+</html>
